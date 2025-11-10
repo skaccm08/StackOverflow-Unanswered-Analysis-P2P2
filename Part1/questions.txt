@@ -1,0 +1,7 @@
+Questions:
+
+Among the last 50 pages of unanswered questions on stackoverflow, which programming language tags are the most common?
+Which tags get the most views despite being unanswered?
+What are the most common words being used in unanswered stackoverflow question 
+Do unanswered questions need to be long and elaborate (aka, what is the average length of unanswered questions?)
+What is the average reputation score of users who post unanswered questions?
