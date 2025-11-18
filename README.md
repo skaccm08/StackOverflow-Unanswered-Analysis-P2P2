@@ -12,4 +12,4 @@ This project will use python, bs4 and seaborn to illustrate trends and answer qu
 1) Explore and evaluate metadata
 2) Refactor Column Names
 3) Re-compute data as full integers
-4) Answer Questions using Seaborn/Pandas
+4) Answer Questions using MatPlotLib/Pandas
