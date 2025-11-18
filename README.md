@@ -1,4 +1,4 @@
-# StackOverflow-Unanswered-Analysis-P2P2
+# StackOverflow Unanswered Question Analysis
 This project will use python, bs4 and seaborn to illustrate trends and answer questions within the 'unanswered' question log in StackOverflow.
 
 ### Part 1 | Questions:
