@@ -2,7 +2,7 @@
 This project will use python, bs4 and seaborn to illustrate trends and answer questions within the 'unanswered' question log in StackOverflow.
 
 ### Part 1 | Questions:
-1) Among the last 5 of unanswered questions on stackoverflow, which programming language tags are the most common?
+1) Among 6 pages of unanswered questions on stackoverflow, which programming language tags are the most common?
 2) Which tags get the most views despite being unanswered?
 3) What are the most common words being used in unanswered stackoverflow question (using only whats avaible the question preview)
 4) Do unanswered questions need to be long and elaborate (aka, what is the average length of unanswered questions?)
@@ -12,4 +12,4 @@ This project will use python, bs4 and seaborn to illustrate trends and answer qu
 1) Explore and evaluate metadata
 2) Refactor Column Names
 3) Re-compute data as full integers
-4) Answer Questions using MatPlotLib/Pandas
+4) Answer Questions using Seaborn Viz
